@@ -1,4 +1,4 @@
-# SurveyExperiment
+# Survey Experiment
 It is a small survey experiment that my teammate and I conducted for a class called Field Experiments and Policy Evaluation in Education.
 We presented the idea, made survey on SoSci, collected and analysed data, and finally presented our results, all in one and half months time. 
 The idea behind the experiment is that there is limited social interaction among students from different regions. 
